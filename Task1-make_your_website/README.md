@@ -13,11 +13,9 @@
 Getting started is *literally* as easy as 1-2-3 :smile:
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps.
 
-![Installation steps](install-steps.gif)
-
 ### 1. Fork this repository
 
-(Assuming you are on this page and logged into GitHub) Fork this repository by clicking the *Fork* button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
+(Assuming you are on this page and logged into GitHub) Fork [this](https://github.com/daattali/beautiful-jekyll) repository by clicking the *Fork* button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
 
 ### 2. Rename the repository to `<yourusername>.github.io`
 
@@ -32,3 +30,11 @@ Another way to edit the config file (or any other file) is to use [prose.io](htt
 After you save your changes to the config file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so.
 
 You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages. Your website is at `https://<yourusername>.github.io` (replace `<yourusername>` with your user name). Do not add `www` to the URL - it will not work!
+
+## Final steps 
+
+Congratulations on succesfully launching your github.io page. Now to mark this as your hacktoberfest'19 contribution follow these steps 
+
+### 1. In this repository there is a file Contributors.md under the Task1-make_your_website directory.
+### 2. You need to simply add your Name and your github page link adjacent to it and create a pull request. (Make sure you're ading only two fields in the contributors.md file)
+### 3. Send a PR with Task-1-your_username and wait for it to get merged. We'll be accepting your pull request as soon as possible!

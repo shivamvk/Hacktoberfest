@@ -1,5 +1,7 @@
 # 🎃 HacktoberFest'19 Icebreaker Project 🎃
 
+If you're still wondering what's hacktoberfest, give this article a read [All about hacktoberfest!](https://medium.com/@shivam.vk529/all-about-digital-oceans-hacktoberfest-in-3-minutes-ce2c3724b6b5)
+
 This repo aims to give an introduction as to how the Open Source world functions.
 Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 

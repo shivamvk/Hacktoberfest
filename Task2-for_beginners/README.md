@@ -16,3 +16,12 @@ Commit the changes you made with any commit message you like. After that open th
 Wait for us to verify and merge your PR.
 
 And yes that's it! That's all you need to make your first contribution to open source. 
+
+## Contributors
+Shiavm Bhasin<br>
+Miguel A. Falcón Muñoz<br>
+Charnsak Dangmanee<br>
+Dibyendu Maji<br>
+Yusuf Adefolahan<br>
+Sw88t Rabbit<br>
+Ayush Jindal<br>

@@ -6,3 +6,4 @@ Add your name and website link in the list below and submit a pull request to co
     
 ex. Shivam Bhasin : shivamvk.github.io
     Arpit Jain    : maiarpitjain.github.io
+    Apoorv Singhal : coolbuny.github.io
